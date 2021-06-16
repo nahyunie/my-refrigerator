@@ -9,6 +9,7 @@
 우리는 이러한 **식재료 관리의 문제**, **식재료 소비의 문제**를 해결하기 위한 해결책으로 **유통기한 관리와 사용자의 식재료를 바탕으로 레시피를 추천하는 어플**을 개발하였다.
 <br>
 <br>
+<img width="1000" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## ✔ 주요기능
 
@@ -38,6 +39,7 @@
   + 냉장고 코드 암호화, 복호화
 <br>
 <br>
+<img width="1000" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## 📱 구성도
 <p align="center">
@@ -45,6 +47,7 @@
 </p>
 <br>
 <br>
+<img width="1000" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## 💻 주요기술
 
@@ -58,6 +61,7 @@
 | `개발언어` | java, python |  |
 <br>
 <br>
+<img width="1000" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## 👩 💻 역할분담
 | 기술 | 설명 |
@@ -68,12 +72,15 @@
 | 최나현 | Tensorflow 모델 학습, Firebase Authentication |
 <br>
 <br>
+<img width="1000" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## 🎬 실행예시 
++ 식재료 인식
 <img src="https://user-images.githubusercontent.com/58367854/122037724-d519c800-ce0f-11eb-816e-094e40c481b4.gif"/>
 <br>
 <br>
+<img width="1000" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## 🎤 발표영상
+[![Video Label](http://img.youtube.com/vi/063iKSK1RfA/0.jpg)](https://www.youtube.com/watch?v=063iKSK1RfA&feature=youtu.be)
 
-youtube link 추가 예정
