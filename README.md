@@ -63,7 +63,7 @@
 <br>
 <img width="1000" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-## 👩 💻 역할분담
+## 👩‍💻 역할분담
 | 기술 | 설명 |
 |---|:---:|
 | 진은혜 | 팀장, Tensorflow 모델 학습, android notification |
