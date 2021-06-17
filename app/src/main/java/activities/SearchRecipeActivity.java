@@ -92,7 +92,6 @@ public class SearchRecipeActivity extends AppCompatActivity implements RecipeAda
 
     public String change(String name){
         String res = "foods";
-        res.replace(" ","");
         String[] eng = getResources().getStringArray(R.array.eng_name);
         String[] kor = getResources().getStringArray(R.array.kor_name);
 
@@ -100,6 +99,25 @@ public class SearchRecipeActivity extends AppCompatActivity implements RecipeAda
             if(name.equals(kor[i])){
                 res = eng[i];
             }
+        }
+        if(res.equals("red pepper paste")){
+            res = "redpepperpaste";
+        }
+        if(res.equals("sweet potato")){
+            res = "sweetpotato";
+        }
+        if(res.equals("soybean paste")){
+            res = "soybeanpaste";
+        }
+        if(res.equals("quail eggs")){
+            res = "quaileggs";
+        }
+
+        if(res.equals("greenOnion")){
+            res = "greenonion";
+        }
+        if(res.equals("enokiMushroom")){
+            res = "enokimushroom";
         }
         return res;
     }

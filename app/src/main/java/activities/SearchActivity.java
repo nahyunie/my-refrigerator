@@ -206,18 +206,14 @@ public class SearchActivity extends AppCompatActivity{
         list.add("더덕");
         list.add("병어");
         list.add("붕장어");
-        list.add("올갱이");
         list.add("우거지");
         list.add("우렁");
         list.add("콩나물");
-        list.add("크림소스");
-        list.add("노각");
         list.add("쥐치채");
         list.add("홍어");
         list.add("농어");
         list.add("멍게");
         list.add("묵");
-        list.add("오곡");
         list.add("양송이버섯");
         list.add("수정과");
         list.add("무");
@@ -231,7 +227,6 @@ public class SearchActivity extends AppCompatActivity{
         list.add("복숭아");
         list.add("레몬");
         list.add("바나나");
-        list.add("바닐라");
         list.add("카라멜");
         list.add("마스카포네치즈");
         list.add("솜사탕");
@@ -252,20 +247,16 @@ public class SearchActivity extends AppCompatActivity{
         list.add("토란");
         list.add("호박잎");
         list.add("홍합");
-        list.add("검정콩");
         list.add("기장");
         list.add("무밥");
         list.add("보리");
         list.add("수수");
-        list.add("알");
-        list.add("오징어");
         list.add("완두콩");
         list.add("유부");
         list.add("잡곡");
         list.add("차조");
         list.add("찰밥");
         list.add("참치");
-        list.add("채소");
         list.add("치즈");
         list.add("현미");
         list.add("흑미");
@@ -279,7 +270,7 @@ public class SearchActivity extends AppCompatActivity{
         list.add("마늘쫑");
         list.add("견과류");
         list.add("멸치");
-        list.add("묵은지");
+        list.add("돌나물");
         list.add("문어");
         list.add("미역줄기");
         list.add("브로콜리");
@@ -291,13 +282,10 @@ public class SearchActivity extends AppCompatActivity{
         list.add("식빵");
         list.add("골뱅이");
         list.add("달래");
-        list.add("돌나물");
         list.add("두릅");
         list.add("미나리");
-        list.add("미역초");
         list.add("북어채");
         list.add("상추");
-        list.add("새싹채소");
         list.add("양배추");
         list.add("양상추");
         list.add("부추");
@@ -309,7 +297,6 @@ public class SearchActivity extends AppCompatActivity{
         list.add("풋고추");
         list.add("풋마늘");
         list.add("피조개");
-        list.add("해초");
         list.add("단무지");
         list.add("가지");
         list.add("두부");
@@ -317,7 +304,6 @@ public class SearchActivity extends AppCompatActivity{
         list.add("메밀");
         list.add("애호박");
         list.add("땅콩");
-        list.add("버섯");
         list.add("삼치");
         list.add("양미리");
         list.add("연근");
@@ -329,7 +315,6 @@ public class SearchActivity extends AppCompatActivity{
         list.add("당면");
         list.add("곤약");
         list.add("전분");
-        list.add("껌");
         list.add("꿀");
         list.add("엿");
         list.add("시럽");
@@ -360,13 +345,11 @@ public class SearchActivity extends AppCompatActivity{
         list.add("호두");
         list.add("갓");
         list.add("곰취");
-        list.add("김치");
         list.add("고사리");
         list.add("도라지");
         list.add("무순");
         list.add("무청");
         list.add("시래기");
-        list.add("배추");
         list.add("뽕잎");
         list.add("부지갱이");
         list.add("비트");
@@ -459,7 +442,6 @@ public class SearchActivity extends AppCompatActivity{
         list.add("조개");
         list.add("가재");
         list.add("개불");
-        list.add("게");
         list.add("꽃게");
         list.add("대게");
         list.add("게맛살");
@@ -532,7 +514,6 @@ public class SearchActivity extends AppCompatActivity{
         list.add("페퍼민트");
         list.add("후추");
         list.add("북어");
-        list.add("연잎");
         list.add("전복");
         list.add("콩");
         list.add("인삼");
@@ -544,7 +525,6 @@ public class SearchActivity extends AppCompatActivity{
         list.add("부채살");
         list.add("꽃등심");
         list.add("살치살");
-        list.add("목심");
         list.add("업진살");
         list.add("차돌박이");
         list.add("치마살");
@@ -556,7 +536,6 @@ public class SearchActivity extends AppCompatActivity{
         list.add("팥");
         list.add("밤");
         list.add("마늘");
-        list.add("다진마늘");
         list.add("바질");
         list.add("호박");
         list.add("노루궁뎅이버섯");
@@ -565,7 +544,6 @@ public class SearchActivity extends AppCompatActivity{
         list.add("만가닥버섯");
         list.add("목이버섯");
         list.add("큰느타리버섯");
-        list.add("우럭");
         list.add("귤");
         list.add("머루");
         list.add("갈치");
@@ -583,7 +561,6 @@ public class SearchActivity extends AppCompatActivity{
         list.add("대하");
         list.add("도다리");
         list.add("도루묵");
-        list.add("돌고기");
         list.add("돌돔");
         list.add("매리복");
         list.add("매생이");
@@ -601,7 +578,6 @@ public class SearchActivity extends AppCompatActivity{
         list.add("참돔");
         list.add("청어");
         list.add("키조개");
-        list.add("해마");
         list.add("흰다리새우");
         list.add("햄");
         list.add("연두부");
@@ -636,7 +612,6 @@ public class SearchActivity extends AppCompatActivity{
         list.add("허니머스타드");
         list.add("생수");
         list.add("콜라");
-        list.add("크림");
         list.add("검은콩");
         list.add("오렌지주스");
         list.add("초코우유");

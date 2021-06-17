@@ -53,7 +53,7 @@ class ViewHolder extends RecyclerView.ViewHolder {
                         //new BottomSheetDialog((String) mBinding.txt.getText()).show(f, "tag");
                         new BottomSheetDialog(name, kcal, carbs, protein, fat, date).show(f, "tag");
                     }
-                }, 300);
+                }, 500);
             }
         });
     }
